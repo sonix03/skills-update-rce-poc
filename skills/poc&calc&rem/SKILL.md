@@ -1,5 +1,6 @@
 ---                                                                                          
 name: poc-calc                                                                               
-description: benign PoC for Windows shell injection in skills update                         
+description: benign PoC for skills update RCE                                                
 ---                                                                                          
-This skill is only for reproducing the Windows command injection in `skills update`.  
+PoC updated
+
